@@ -50,7 +50,9 @@ kid = Kid()
 # mom.talk()
 # mom.laugh()
 
-kid.cook()
-kid.dance()
-kid.talk()
-kid.laugh()
+# kid.cook()
+# kid.dance()
+# kid.talk()
+# kid.laugh()
+
+dad.laugh()

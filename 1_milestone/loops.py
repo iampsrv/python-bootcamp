@@ -33,7 +33,7 @@
 my_list = list(range(10))
 for i in my_list:
     if i == 6:
-        pass
+        pass #placeholder
         # continue
         # break
     print(i)
